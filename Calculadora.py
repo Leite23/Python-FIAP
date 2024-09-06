@@ -20,9 +20,7 @@ def calculadora():
         print("2. Subtração")
         print("3. Multiplicação")
         print("4. Divisão")
-        print("5. Sair")
-
-
+        print("5. Sair"
 
 
 

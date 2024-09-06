@@ -9,4 +9,3 @@ def coletar_info():
     print(f"Codigo: {codigo_disciplina}")
         
 coletar_info()
-
