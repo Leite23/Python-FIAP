@@ -27,6 +27,8 @@ def calculadora():
         if escolha == '5':
             
             
+            
+            
             print("Saindo da calculadora.")
             break
 
