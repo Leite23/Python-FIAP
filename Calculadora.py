@@ -22,6 +22,10 @@ def calculadora():
         print("4. Divisão")
         print("5. Sair")
 
+
+
+
+
         escolha = input("Digite a opção (1/2/3/4/5): ")
 
         if escolha == '5':
