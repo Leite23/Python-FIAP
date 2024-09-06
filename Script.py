@@ -1,6 +1,12 @@
-print('hello world!!!!!!')
-print_directory('Testeee')
-print_directory('Testeee')
-print_directory('Testeee')
+def coletar_info():
+    nome = input("Digite seu nome: ")
+    rm = input("Digite seu rm: ")
+    codigo_disciplina = input("Digite seu codigo: ")
+    
+    print("Info Coletadas:")
+    print(f"Nome: {nome}")
+    print(f"Rm: {rm}")
+    print(f"Codigo: {codigo_disciplina}")
+        
+coletar_info()
 
-print_directory('Testeee')
