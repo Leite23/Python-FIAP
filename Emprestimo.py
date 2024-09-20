@@ -14,4 +14,7 @@ emprestimo_automatico = input("Você tem um empréstimo automático? (sim/não):
 
 resultado = pode_contratar_emprestimo(idade_cliente, salario_cliente, emprestimo_automatico)
 
-print(resultado)
+if resultado: 
+    print("foi")
+else: 
+    print("nn foi")
